@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ClickTap/static/css/main.0226289b.chunk.css",
+    "main.js": "/ClickTap/static/js/main.e21ef2a1.chunk.js",
+    "main.js.map": "/ClickTap/static/js/main.e21ef2a1.chunk.js.map",
+    "runtime~main.js": "/ClickTap/static/js/runtime~main.cb142b74.js",
+    "runtime~main.js.map": "/ClickTap/static/js/runtime~main.cb142b74.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ClickTap/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3738b18c.chunk.js": "/ClickTap/static/js/2.3738b18c.chunk.js",
+    "static/js/2.3738b18c.chunk.js.map": "/ClickTap/static/js/2.3738b18c.chunk.js.map",
+    "index.html": "/ClickTap/index.html",
+    "precache-manifest.27a03c334487e16bb76071a71d05a174.js": "/ClickTap/precache-manifest.27a03c334487e16bb76071a71d05a174.js",
+    "service-worker.js": "/ClickTap/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ClickTap/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.0226289b.chunk.css.map": "/ClickTap/static/css/main.0226289b.chunk.css.map",
+    "static/media/logo.svg": "/ClickTap/static/media/logo.5d5d9eef.svg"
+  }
+}
